@@ -1,1 +1,1 @@
-This is a school election web app which uses google forms as the backend.
+#This is a school election web app which uses google forms as the backend.
