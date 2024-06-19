@@ -8,3 +8,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et turpis sed
 - Feature 2
 - Feature 3
 - Feature 4
+
+## Tech Stack
+HTML, CSS, Vanilla JS
